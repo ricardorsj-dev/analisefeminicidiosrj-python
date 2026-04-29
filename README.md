@@ -1,6 +1,6 @@
-# 📊 Análise de Feminicídios no Brasil (2016–2026)
+# 📊 Análise de Feminicídios no Rio de Janeiro (2016–2026)
 
-Este projeto realiza uma análise exploratória de dados sobre feminicídios e tentativas no Brasil ao longo de 10 anos.
+Este projeto realiza uma análise exploratória de dados sobre feminicídios e tentativas no Rio de Janeiro ao longo de 10 anos.
 
 ## 🔍 Objetivos
 
